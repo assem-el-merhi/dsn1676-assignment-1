@@ -87,6 +87,10 @@ a:visited {
 	background-color: #85bce6;
 }
 
+.box {
+
+}
+
 .current {
 	background-image: url("../img/nav-bottom-right.svg"), url("../img/nav-top-left.svg");
 	background-position: right bottom, left top;
